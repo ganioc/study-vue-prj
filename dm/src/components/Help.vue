@@ -2,7 +2,7 @@
   <div class="help">
     <h1>Help</h1>
     <h2>{{ msg}}</h2>
-    <Button>success</Button>
+    <Button type="success">success</Button>
     <h3>
       <a href="/">Home</a>
     </h3>
