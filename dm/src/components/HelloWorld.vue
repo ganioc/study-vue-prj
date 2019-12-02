@@ -36,7 +36,7 @@
       </li>
     </ul>
     <h3>
-      <a href="/#/help">Help</a>
+      <a href="#/help">Help</a>
     </h3>
   </div>
 </template>
